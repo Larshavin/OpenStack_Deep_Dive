@@ -1,2 +1,2 @@
 # OpenStack_Deep_Dive
-Repository for studying in-depth understanding of OpenStack code
+Repository for an in-depth study of OpenStack code
